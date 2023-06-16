@@ -1,0 +1,16 @@
+Modo interativo o que é?
+ - Ele nos permite executar códigos e ter o resultado ali na hora
+ - Utilizado no terminal é iniciado ao invocarmos o interpretador com a palavra python ou python -i app.py
+   flag -i e nome do arquivo que quer entrar no modo interativo.
+ - Para sair deste modo, usar exit()
+
+
+dir()    | retorna os nomes no escopo local
+dir(100) | retorna lista de atributos válidos para o objeto passado, no exemplo 100 é do tipo inteiro, nos traz todos os métodos que tem lá
+
+Para sair da documentação apertar Q e para sair do modo help é só apertar ENTER
+help()   | consulta a documentação, posso pesquisar sobre a classe int e ele me traz tudo o que posso fazer com ele, o mesmo pro fload, str e etc
+help(100)| faz o mesmo, porém utilizando objetos de tipos diferentes
+
+Resumindo com estes comandos temos basicamente uma documentação offline, para consultarmos a qualquer momento.
+
