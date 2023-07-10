@@ -1,3 +1,4 @@
+"""Conhecendo métodos úteis da classe string"""
 nome = "Xandão"
 
 print(nome.upper())
